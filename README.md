@@ -1,4 +1,4 @@
-OCR with automatic semantic XML-tagging via recognition of typography 🖖
+OCR with automatic semantic XML-tagging via [recognition of typography](https://dl.acm.org/doi/10.1145/3322905.3322910) 🖖
 
 all data on here:
 ![](https://img.shields.io/badge/license-CC%20BY--SA%204.0-brightgreen)
