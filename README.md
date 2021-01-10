@@ -33,7 +33,7 @@ OCR with automatic semantic XML-tagging via recognition of typography 🖖
                            ſind ebendaher nicht ſeine W–e, ſondern
                            nur Ereignis, ein Durchgang äußerer Verkettungen durch einen
                            Menſchen.</quote>
-                    <bibl>
+                    <bibl ref="http://www.deutschestextarchiv.de/vischer_aesthetik0201_1847/215">
                         <author>Viſcher</author>
                         <title>Äſth.</title>
                         <biblScope>2, 203 ꝛc.</biblScope>
