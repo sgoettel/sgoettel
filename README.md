@@ -22,15 +22,17 @@ OCR with automatic semantic XML-tagging via recognition of typography 🖖
                 </form>
                 <sense n="1)"><def>1) etwas durch Schaffen Hervorgebrachtes, das Erzeugnis
                         ſchaffenden Thuns und zuw. dies ſelbſt (vgl. Arbeit 5
-                        und Anm. 1), mit verſch. Modifikationen der Bed., z.
-                    B.:</def></sense>
-                <sense n="a)">a) <usg type="style">prägnant</usg></sense>
+                        und Anm. 1), mit verſch. Modifikationen der Bed., z.B.:<
+                            /def>
+                      <sense n="a)">a) <usg type="style">prägnant</usg>
+                      </sense>
+                </sense>
                 <pc>:</pc>
                 <cit type="example">
-                    <quote>Der Charakterloſe folgt unmittelbar wie Iſolani; ſeine Thatenunmittelbar
-                        wie Iſolani; ſeine Thaten (ſ. d. 1) ſind ebendaher nicht ſeine W–e, ſondern
-                        nur Ereignis, ein Durchgang äußerer Verkettungen durch einen
-                        Menſchen.</quote>
+                    <quote>Der Charakterloſe folgt unmittelbar wie Iſolani; ſeine Thaten (ſ. d. 1)
+                           ſind ebendaher nicht ſeine W–e, ſondern
+                           nur Ereignis, ein Durchgang äußerer Verkettungen durch einen
+                           Menſchen.</quote>
                     <bibl>
                         <author>Viſcher</author>
                         <title>Äſth.</title>
