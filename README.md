@@ -2,7 +2,7 @@
 
 ### Hi there!
 
-I am a linguist and digital humanist with a strong interest in lexical semantics and sociolinguistic phenomena. My research focuses on various topics, including the work of [Daniel Sanders](https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)), the intellectual and modern history of 18th- and 19th-century Europe, and the digital transformation of historical documents and data. I am also deeply interested in the history of Jewish-German scholarship and other related areas.
+I am a linguist and digital humanist with a strong interest in lexical semantics, historical lexicography, and the long-term dynamics of semantic change. My research focuses on the intellectual and cultural history of 19th-century Europe, with particular attention to the work and reception of [Daniel Sanders](https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)) and the history of Jewish-German scholarship. I am also involved in modeling historical data using formats like TEI-XML and explore contemporary forms of language variation such as slang and digital vernaculars.
 
 I enjoy working on open source projects and data, regularly developing smaller tools – some more, some less useful. However, due to the nature of open source and certain other factors, it is not always possible for me to keep everything up to date or continuously maintain all of my projects.
 
